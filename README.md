@@ -6,11 +6,14 @@
 
 ---
 
-### 🧰 Мой стек
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
+### ⚡️ Мой стек
+
+![Python](https://img.shields.io/badge/-Python-1E1E3F?style=for-the-badge&logo=python&logoColor=00FFFF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1E1E3F?style=for-the-badge&logo=javascript&logoColor=FFFF00)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1E1E3F?style=for-the-badge&logo=typescript&logoColor=00FFFF)
+![C++](https://img.shields.io/badge/-C++-1E1E3F?style=for-the-badge&logo=c%2b%2b&logoColor=FF00FF)
+![React](https://img.shields.io/badge/-React-1E1E3F?style=for-the-badge&logo=react&logoColor=00FFFF)
+![HTML5](https://img.shields.io/badge/-HTML5-1E1E3F?style=for-the-badge&logo=html5&logoColor=FF4500)
+![CSS3](https://img.shields.io/badge/-CSS3-1E1E3F?style=for-the-badge&logo=css3&logoColor=00BFFF)
 
 ---
