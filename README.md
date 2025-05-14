@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A11F&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello%2C+I%60m+Front-end+developer;I+write+beautiful+UI;I+love+animations+and+frameworks)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=150&section=header&text=Hi,+I'm+Magician!&fontSize=30&fontColor=fff" />
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=68167AE7&center=true&vCenter=true&width=435&lines=Hello%2C+I%60m+front-end+developer;I+love+programming;I+love+writing+beautiful+UI" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   🚀 Frontend-разработчик • 🎨 UI/UX энтузиаст • 🌍 Работаю с Web-технологиями
