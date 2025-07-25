@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  🚀 Frontend-разработчик • 🎨 UI/UX энтузиаст • 🌍 Embded инженер
+  🚀 Frontend-разработчик • 🎨 UI/UX энтузиаст • 🌍 Embedded инженер
 </p>
 
 ---
