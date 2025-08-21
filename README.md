@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=150&section=header&text=Hi,+I'm+Magician!&fontSize=30&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=150&section=header&text=Hi,+I'm+Zidrax!&fontSize=30&fontColor=fff" />
 </div>
 
 <p align="center">
@@ -13,14 +13,19 @@
 
 ---
 
-### ⚡️ Мой стек
+<div align="center">
+  <h3>⚡️ Мой стек</h3>
+  
+  <img src="https://img.shields.io/badge/-Python-1E1E3F?style=for-the-badge&logo=python&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/-JavaScript-1E1E3F?style=for-the-badge&logo=javascript&logoColor=FFFF00" />
+  <img src="https://img.shields.io/badge/-TypeScript-1E1E3F?style=for-the-badge&logo=typescript&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/-C++-1E1E3F?style=for-the-badge&logo=c%2b%2b&logoColor=FF00FF" />
+  <br />
+  <img src="https://img.shields.io/badge/-React-1E1E3F?style=for-the-badge&logo=react&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/-HTML5-1E1E3F?style=for-the-badge&logo=html5&logoColor=FF4500" />
+  <img src="https://img.shields.io/badge/-CSS3-1E1E3F?style=for-the-badge&logo=css3&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-1E1E3F?style=for-the-badge&logo=tailwindcss&logoColor=00FFFF" />
+</div>
 
-![Python](https://img.shields.io/badge/-Python-1E1E3F?style=for-the-badge&logo=python&logoColor=00FFFF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1E1E3F?style=for-the-badge&logo=javascript&logoColor=FFFF00)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1E1E3F?style=for-the-badge&logo=typescript&logoColor=00FFFF)
-![C++](https://img.shields.io/badge/-C++-1E1E3F?style=for-the-badge&logo=c%2b%2b&logoColor=FF00FF)
-![React](https://img.shields.io/badge/-React-1E1E3F?style=for-the-badge&logo=react&logoColor=00FFFF)
-![HTML5](https://img.shields.io/badge/-HTML5-1E1E3F?style=for-the-badge&logo=html5&logoColor=FF4500)
-![CSS3](https://img.shields.io/badge/-CSS3-1E1E3F?style=for-the-badge&logo=css3&logoColor=00BFFF)
 
 ---
